@@ -1,2 +1,4 @@
-# a-plus-project
-MyIIT portal redesign.
+# MyIIT Portal Redesign
+
+## Team Members
+* Karl
